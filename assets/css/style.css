@@ -530,7 +530,8 @@ main {
 
 .service-icon-box { margin-bottom: 10px; }
 
-.service-icon-box img { margin: auto; }
+
+.service-icon-box img { margin: auto;}
 
 .service-content-box { text-align: center; }
 
@@ -812,7 +813,7 @@ main {
 }
 
 .timeline-text {
-  color: var(--light-gray);
+  color: var(--eerie-black-1);
   font-weight: var(--fw-300);
   line-height: 1.6;
 }
@@ -1601,14 +1602,14 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .filter-item button {
-    color: var(--light-gray);
+    color: var(--smoky-black);
     font-size: var(--fs-5);
     transition: var(--transition-1);
   }
 
-  .filter-item button:hover { color: var(--light-gray-70); }
+  .filter-item button:hover { color: var(--bittersweet-shimmer); }
 
-  .filter-item button.active { color: var(--orange-yellow-crayola); }
+  .filter-item button.active { color: var(--bittersweet-shimmer); }
 
   /* portfolio and blog grid */
 
